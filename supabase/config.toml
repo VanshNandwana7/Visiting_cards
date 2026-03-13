@@ -1,0 +1,4 @@
+project_id = "afwessdwcnacyamdsibh"
+
+[functions.extract-card]
+verify_jwt = false
